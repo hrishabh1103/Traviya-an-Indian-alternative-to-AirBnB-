@@ -205,7 +205,7 @@ export const mockProperties: Property[] = [
     ],
     rating: 4.9,
     reviewCount: 89,
-    hostName: 'Maria Fernandes',
+    hostName: 'Nirma Ji',
     hostImage: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=200'
   },
   {
