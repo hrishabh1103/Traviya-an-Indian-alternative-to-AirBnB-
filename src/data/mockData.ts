@@ -16,7 +16,7 @@ export interface Property {
   hostName: string;
   hostImage: string;
 }
-// can u please update the whole app soon
+// There is a security Breech possible please make sure to resolve it ASAP
 export interface Destination {
   name: string;
   state: string;
