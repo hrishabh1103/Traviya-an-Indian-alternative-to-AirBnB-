@@ -13,7 +13,7 @@ This guide will walk you through deploying your Traviya app to Vercel step by st
 Before deploying, you need your Supabase credentials. You already have them in your `.env` file:
 
 ```
-VITE_SUPABASE_URL=https://mnvymacoiujmkmogzvds.supabase.co
+VITE_SUPABASE_URL=https://mnvymacoiujmkmogzvds.supabase.co   
 VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 ```
 
